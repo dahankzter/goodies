@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Blatantly stolen and modified from https://github.com/rvoicilas/inotify-tools/
+# Supernice tools!
+
 # get the current path
 CURPATH=`pwd`
 
